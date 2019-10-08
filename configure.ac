@@ -1,6 +1,6 @@
 AC_INIT([BigMC], [20120807], [gdpe@itu.dk], [bigmc], [http://bigraph.org/bigmc/])
 AC_PREREQ([2.59])
-AM_INIT_AUTOMAKE([1.10 no-define])
+AM_INIT_AUTOMAKE([1.10 no-define foreign])
 AC_CONFIG_HEADERS([config.h])
 
 AC_PROG_CXX
